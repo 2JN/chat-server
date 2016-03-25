@@ -1,0 +1,19 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "A realtime chat with video and gifs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2JN/chat-server.git"
+  },
+  "author": "Jose Navas <jesquivelnavas@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/2JN/chat-server/issues"
+  },
+  "homepage": "https://github.com/2JN/chat-server#readme"
+}
